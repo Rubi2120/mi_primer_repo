@@ -1,1 +1,3 @@
-Hola GitHub desde mi Mac
+Hola GitHub
+Estoy aprendiendo Git en mi Mac
+
