@@ -1,4 +1,1 @@
-print("Hola mundo desde Python")
-
-git init
-
+print("¡Hola, mundo!")
